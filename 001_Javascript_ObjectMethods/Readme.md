@@ -159,7 +159,7 @@ Finally, the clean way of writing our `for(var i in <array>)` is with the forEac
 
 You use it in whatever reason where you're not filtering, choosing what elements of the array to output or reducing all elements into one value. And of course you could use it on those previous three situations, but whats the point in that? It won't be the cleanest implementation.
 
-You can check the examples on my github at: https://github.com/danielfilipealmeida/Blog/001_Javascript_ObjectMethods and run them with node.js...
+You can check the examples on my github at: https://github.com/danielfilipealmeida/Blog/tree/master/001_Javascript_ObjectMethods and run them with node.js...
 
 
 ## References
